@@ -1,7 +1,8 @@
-<<<<<<< HEAD
 # 🔐 Information Security Web App
 
 A Django-based web application that demonstrates five classical encryption techniques. Users can encrypt or decrypt messages by selecting a cipher and entering a custom key.
+
+---
 
 ## 🔧 Features
 
@@ -15,6 +16,8 @@ A Django-based web application that demonstrates five classical encryption techn
 - Built using Python and Django
 - Educational tool for learning classical cryptography
 
+---
+
 ## 🖥️ How It Works
 
 1. Select a cipher on the homepage.
@@ -22,11 +25,15 @@ A Django-based web application that demonstrates five classical encryption techn
 3. Choose to **Encrypt** or **Decrypt**.
 4. View the result instantly.
 
+---
+
 ## 🛠️ Tech Stack
 
 - **Backend:** Django (Python)
 - **Frontend:** HTML, CSS 
 - **Cipher Logic:** Implemented in pure Python
+
+---
 
 ## 🚀 Getting Started
 
@@ -35,7 +42,6 @@ A Django-based web application that demonstrates five classical encryption techn
 ```bash
 git clone https://github.com/AliAzmatTararSE/secure-message-django.git
 cd secure-message-django
-
 
 
 <p align="center">
