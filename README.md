@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔐 Information Security Web App
 
 A Django-based web application that demonstrates five classical encryption techniques. Users can encrypt or decrypt messages by selecting a cipher and entering a custom key.
