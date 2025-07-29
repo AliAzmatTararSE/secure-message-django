@@ -44,6 +44,8 @@ git clone https://github.com/AliAzmatTararSE/secure-message-django.git
 cd secure-message-django
 
 
+## 📸 Homepage Screenshot
+
 <p align="center">
-  <img src="static/homepage.jpeg" alt="Homepage Screenshot" width="600"/>
+  <img src="https://raw.githubusercontent.com/AliAzmatTararSE/secure-message-django/main/static/homepage.jpeg" alt="Homepage Screenshot" width="600"/>
 </p>
