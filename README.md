@@ -38,9 +38,12 @@ cd secure-message-django
 
 
 
-![Homepage](static/homepage.jpeg)
+## 📸 Homepage Screenshot
 
+<!-- Option 1: HTML (centered + sized) -->
 <p align="center">
   <img src="static/homepage.jpeg" alt="Homepage Screenshot" width="600"/>
 </p>
 
+<!-- Option 2: Plain Markdown (if preferred) -->
+<!-- ![Homepage Screenshot](static/homepage.jpeg) -->
