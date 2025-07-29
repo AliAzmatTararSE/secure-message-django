@@ -42,7 +42,7 @@ A Django-based web application that demonstrates five classical encryption techn
 ```bash
 git clone https://github.com/AliAzmatTararSE/secure-message-django.git
 cd secure-message-django
-
+``` 
 
 ## 📸 Homepage Screenshot
 
